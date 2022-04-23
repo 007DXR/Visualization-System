@@ -1,9 +1,8 @@
-# 辅助失踪事件侦查的可视化系统 VastChallenge2014
+# 辅助失踪事件侦查的可视化系统
 
-
-本次可视化数据来自VAST Challenge 2014 MC1。
 
 ## 故事简介
+#### （VAST Challenge 2014 MC1）
 总部位于Tethys的GASTech公司在岛国Kronos部署基地。2014年GAStech公司高管在岛国Kronos神秘失踪，一个被称为Kronos保护者（POK）的组织被怀疑与失踪有关。
 
 根据警方提供的数据
